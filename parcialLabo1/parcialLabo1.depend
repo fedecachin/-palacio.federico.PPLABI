@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1621435716 source:c:\users\pfede\desktop\parciallabo1\bicicletar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"bicicletar.h"
+	"tipo.h"
+	"color.h"
+	"validaciones.h"
+
+1621435716 c:\users\pfede\desktop\parciallabo1\bicicletar.h
+	"tipo.h"
+	"color.h"
+
+1621435723 source:c:\users\pfede\desktop\parciallabo1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"fecha.h"
+	"tipo.h"
+	"color.h"
+	"bicicletar.h"
+	"servicio.h"
+	"trabajo.h"
+
+1621427810 c:\users\pfede\desktop\parciallabo1\fecha.h
+
+1621434318 c:\users\pfede\desktop\parciallabo1\tipo.h
+
+1621435129 c:\users\pfede\desktop\parciallabo1\color.h
+
+1621427810 c:\users\pfede\desktop\parciallabo1\servicio.h
+
+1621427810 c:\users\pfede\desktop\parciallabo1\trabajo.h
+	"fecha.h"
+
+1621434318 source:c:\users\pfede\desktop\parciallabo1\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tipo.h"
+
+1621435165 source:c:\users\pfede\desktop\parciallabo1\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"color.h"
+
+1621433117 source:c:\users\pfede\desktop\parciallabo1\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"validaciones.h"
+
+1621433085 c:\users\pfede\desktop\parciallabo1\validaciones.h
+
